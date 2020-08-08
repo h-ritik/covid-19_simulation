@@ -1,1 +1,1 @@
-An event driven algorithm has been used to simulate transmission of COVID-19 in a locality of 10,000 nodes for maximum of 300 days. More about this project can be found in the uploaded "Project.pdf" file.
+An event driven algorithm has been used to simulate transmission of COVID-19 in a locality of 10,000 nodes for maximum of 300 days. More about this project can be found in the uploaded "Project.pdf" file. 
